@@ -1,0 +1,3 @@
+Host github.com-it3c-tihlarik
+        Hostname github.com
+        IdentityFile=/home/sysadmin/.ssh/git_key
